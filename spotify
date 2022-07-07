@@ -371,14 +371,12 @@ gew1.ap.spotify.com
 gew-dealer-ssl.spotify.com 
 gew-dealer.spotify.com 
 gew-spclient.spotify.com 
-global-dealer-ssl.spotify.com 
 go.scdn.co 
 googleadapis.l.google.com
 googleads4.g.doubleclick.net
 googleads.g.doubleclick.
 googleads.g.doubleclick.net
 googleadservices.com
-googlehosted.l.googleusercontent.com
 googletagservices.com
 groups.spotify.com 
 gtssl2-ocsp.geotrust.
@@ -423,8 +421,6 @@ herlinda.ash1.spotify.com
 herlinda.ash.spotify.com 
 hrblog.spotify.com 
 i.admob.com
-i.scdn.co
-i.scdn.co 
 ia1.comscore.com
 ia2.comscore.com
 iad.comscore.com
@@ -1683,4 +1679,6 @@ heads-fa.spotify.com
 heads-fab.spotify.com 
 heads-fac.spotify.com 
 mp3ad.scdn.co 
-prod.spotify-heads.map.fastlylb.net 
+prod.spotify-heads.map.fastlylb.net
+audio-sp-sea.spotifycdn.net
+scdnco.spotify.map.fastly.net	
